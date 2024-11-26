@@ -1,5 +1,4 @@
 # House_Price_Prediction
-# House Price Prediction
 
 This repository contains a machine learning project that predicts house prices based on various features using regression algorithms. The goal of this project is to provide accurate price estimations for houses by analyzing their characteristics, leveraging data preprocessing techniques, and training predictive models.
 
@@ -35,7 +34,7 @@ The dataset used in this project includes:
 - Features: Number of bedrooms, bathrooms, square footage, location, etc.
 - Target Variable: House price.
 
-You can find more details about the dataset [here](https://kaggle.com/datasets/shree1992/housedata) or in the repository's `data/` folder.
+You can find more details about the dataset [here](https://kaggle.com/datasets/shree1992/housedata) or in the repository's `DataSet/` folder.
 
 ---
 
@@ -54,7 +53,7 @@ You can find more details about the dataset [here](https://kaggle.com/datasets/s
 ## Project Structure
 
 House_Price_Prediction/ 
-├── data/ # Dataset
+├── DataSet/ # Dataset
 ├── HousePricePrediction.ipynb/ # Jupyter notebook
 └── README.md # Documentation
 ---
