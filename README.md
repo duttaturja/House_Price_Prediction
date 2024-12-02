@@ -51,11 +51,12 @@ You can find more details about the dataset [here](https://kaggle.com/datasets/s
 ---
 
 ## Project Structure
-
+```
 House_Price_Prediction/ <br>
 ├── DataSet/ # Dataset <br>
 ├── HousePricePrediction.ipynb/ # Jupyter notebook <br>
 └── README.md # Documentation <br>
+```
 ---
 
 ## Results
